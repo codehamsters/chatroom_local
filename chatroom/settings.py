@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-cc#lxxjskcp8!+tj*!jn89-i^&gh7)_%8mt6gd7+89hz13%2*^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','52.198.118.142','www.dark-chatroom.me','dark-chatroom.me']
+ALLOWED_HOSTS = ['127.0.0.1','52.197.255.72','www.dark-chatroom.me','dark-chatroom.me']
 
 
 # Application definition
